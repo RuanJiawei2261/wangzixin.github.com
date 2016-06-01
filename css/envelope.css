@@ -1,0 +1,28 @@
+.box{
+	height: 80px;
+	width: 100%;
+	background-color: rgba(255,182,193,0.4);
+	margin-top: 1px;
+}
+.picture{
+	padding: 5px;
+	height: 80px;
+	width: 25%;
+	float: left;
+}
+.word{
+	color: black;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	margin:5px;
+	
+}
+.a{ 
+	height: 10px;
+    width: 20px;
+    color: gold;
+    
+    font-weight: bold;
+   
+}
